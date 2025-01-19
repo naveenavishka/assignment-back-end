@@ -7,7 +7,7 @@ public partial class Sale
 {
     public int Id { get; set; }
 
-    public int? SalesDate { get; set; }
+    public DateOnly? SalesDate { get; set; }
 
     public int? DiscountPercentage { get; set; }
 

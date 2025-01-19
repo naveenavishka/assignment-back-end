@@ -261,3 +261,4 @@ C:\Users\seu.intern1\source\repos\assignment\assignment\obj\Debug\net8.0\ref\ass
 C:\Users\seu.intern1\source\repos\assignment\assignment\bin\Debug\net8.0\assignment.staticwebassets.runtime.json
 C:\Users\seu.intern1\source\repos\assignment\assignment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\seu.intern1\source\repos\assignment\assignment\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\seu.intern1\source\repos\assignment\assignment\obj\Debug\net8.0\assignment.sourcelink.json

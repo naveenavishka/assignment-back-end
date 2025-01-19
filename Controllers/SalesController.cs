@@ -79,6 +79,8 @@ namespace assignment.Controllers
         [HttpPost]
         public async Task<ActionResult<Sale>> PostSale(Sale sale)
         {
+            sale.SalesDate = DateOnly.FromDateTime(DateTime.Now);
+
             _context.Sales.Add(sale);
             await _context.SaveChangesAsync();
 

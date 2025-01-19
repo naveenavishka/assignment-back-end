@@ -100,6 +100,8 @@ public partial class AssignmnetContext : DbContext
 
         modelBuilder.Entity<Sale>(entity =>
         {
+            entity.HasKey(e => e.Id).HasName("PK_sale2");
+
             entity.ToTable("sale");
 
             entity.Property(e => e.Id).HasColumnName("id");
