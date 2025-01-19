@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9bVogYBxFhr1NcWIgkWuBxByXnU7WI5uKOOrjBRaN6A=",
+  "Source": "assignment",
+  "BasePath": "_content/assignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "assignment\\wwwroot",
+      "Source": "assignment",
+      "ContentRoot": "C:\\Users\\seu.intern1\\source\\repos\\assignment\\assignment\\wwwroot\\",
+      "BasePath": "_content/assignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\seu.intern1\\source\\repos\\assignment\\assignment\\wwwroot\\uploads\\5bc96064-eb52-49b0-bdab-78c652a3c654.jpg",
+      "SourceId": "assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seu.intern1\\source\\repos\\assignment\\assignment\\wwwroot\\",
+      "BasePath": "_content/assignment",
+      "RelativePath": "uploads/5bc96064-eb52-49b0-bdab-78c652a3c654.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5bc96064-eb52-49b0-bdab-78c652a3c654.jpg"
+    }
+  ]
+}
